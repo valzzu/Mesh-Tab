@@ -1,2 +1,2 @@
 # Mesh-Tab
-The wanna be T-Deck
+The iPhone of Meshtastic devices instead of the BlackBerry
