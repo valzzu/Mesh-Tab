@@ -8,9 +8,9 @@ https://a.aliexpress.com/_EybzjMD
 
 ##List of things that needs to be done
 
-- [] add support for the display
-- [] deside on a lora module 
-- [] choose gps
+- [ ] add support for the display
+- [ ] deside on a lora module 
+- [ ] choose gps
 - [X] choose battery charging ic
-- [] 
-- []
+- [ ] 
+- [ ]
