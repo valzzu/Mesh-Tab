@@ -12,5 +12,3 @@ https://a.aliexpress.com/_EybzjMD
 - [ ] deside on a lora module 
 - [ ] choose gps
 - [X] choose battery charging ic
-- [ ] 
-- [ ]
