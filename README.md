@@ -23,5 +23,5 @@ The following hardware is to be considered as targets till better alternatives a
 - Buzzer - Great for notifications.
 - I2C - Allows additional interfaces for future expansion or functionalities a user needs.
 
-# Custom pcb hardware
+## Custom pcb hardware
 - [esp32](https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N16R8_C2913202.html)
