@@ -13,7 +13,7 @@ The following hardware is to be considered as targets till better alternatives a
   - [2.4 inch TFT LCD Shield Touch Panel Display Module](https://www.aliexpress.us/item/3256802101900425.html) - Since it uses the same driver as the Tdeck, it will make it easier to incorporate into the current Tdeck firmware.
   - [ESP-32-S3 5-inch](https://vi.aliexpress.com/item/1005006715581887.html) - Integrated esp32 to handle the ui
   - [ESP32-S3 Development Board 4.0 "480 * 480 Smart Display](https://vi.aliexpress.com/item/1005006478501734.html)  - Recommended by the UI maker 😅 also has integrated esp32 to handle the UI (no support yet but supposedly not hard to add)
-  - [T-Display S3 Pro](https://www.lilygo.cc/products/t-display-s3-pro?variant=43111690141877)
+  - [T-Display S3 Pro](https://www.lilygo.cc/products/t-display-s3-pro?variant=43111690141877) -  iPhone like T-Deck replacement
 - Lora Module
   - [Ra-01sh](https://vi.aliexpress.com/item/1005002561194884.html)
   - [Wio-SX1262](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html)
