@@ -22,3 +22,6 @@ The following hardware is to be considered as targets till better alternatives a
 - Wake button - To be considered to turn the screen on after sleep as well as additional functions.
 - Buzzer - Great for notifications.
 - I2C - Allows additional interfaces for future expansion or functionalities a user needs.
+
+# Custom pcb hardware
+- [esp32](https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N16R8_C2913202.html)
