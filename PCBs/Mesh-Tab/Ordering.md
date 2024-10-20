@@ -10,6 +10,7 @@ if u chose the panelized version, click panel by customer and set it to 2x1
 
 ![starting2](/Images/Guide_images/starting2.png)
 
+if 'Single piece, pls help me repeat the data' is not highlighted select that, files only have data for one pcb. Only relevant if u chose panelized version
 ![starting3](/Images/Guide_images/starting3.png)
 
 ![starting4](/Images/Guide_images/starting4.png)
