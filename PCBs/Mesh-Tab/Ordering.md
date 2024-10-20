@@ -1,24 +1,24 @@
 ## Getting Started
 
-firstly head over to [https://jlcpcb.com](jlcpcb) and hit order now.
+firstly head over to [jlcpcb](https://jlcpcb.com) and hit order now.
 
 then either chooce the non panelized or the panelized version of the gerber file depending on ur needs.
 when u know whitch one u need drag it or click add gerber file.
 if u chose the panelized version, click panel by customer and set it to 2x1
 ![starting1](/Images/Guide images/starting1.png)
 
-![starting1](/Images/Guide images/starting2.png)
+![starting2](/Images/Guide images/starting2.png)
 
-![starting1](/Images/Guide images/starting3.png)
+![starting3](/Images/Guide images/starting3.png)
 
-![starting1](/Images/Guide images/starting4.png)
+![starting4](/Images/Guide images/starting4.png)
 
 if u want to jlc to assemble the esp32 then do not untick the checkbox but do note it will cost more.
-![starting1](/Images/Guide images/starting5.png)
+![starting5](/Images/Guide images/starting5.png)
 
-![starting1](/Images/Guide images/starting6.png)
+![starting6](/Images/Guide images/starting6.png)
 
-![starting1](/Images/Guide images/starting7.png)
+![starting7](/Images/Guide images/starting7.png)
 
 # Additional hardware
 
