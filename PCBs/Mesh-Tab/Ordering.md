@@ -25,6 +25,8 @@ after selecting description hit add to cart
 
 ![starting7](/Images/Guide_images/starting7.png)
 
+For shipping select 'Global Standard Direct Line' for shipping 
+
 # Additional hardware
 
 [Ra-01sh](https://vi.aliexpress.com/item/1005002561194884.html) - select the version with the ipex connector
