@@ -6,12 +6,18 @@ then either chooce the non panelized or the panelized version of the gerber file
 when u know whitch one u need drag it or click add gerber file.
 if u chose the panelized version, click panel by customer and set it to 2x1
 ![starting1](/Images/Guide images/starting1.png)
+
 ![starting1](/Images/Guide images/starting2.png)
+
 ![starting1](/Images/Guide images/starting3.png)
+
 ![starting1](/Images/Guide images/starting4.png)
+
 if u want to jlc to assemble the esp32 then do not untick the checkbox but do note it will cost more.
 ![starting1](/Images/Guide images/starting5.png)
+
 ![starting1](/Images/Guide images/starting6.png)
+
 ![starting1](/Images/Guide images/starting7.png)
 
 # Additional hardware
