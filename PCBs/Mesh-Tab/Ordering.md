@@ -20,6 +20,8 @@ if u want to jlc to assemble the esp32 then do not untick the checkbox but do no
 
 ![starting6](/Images/Guide_images/starting6.png)
 
+after selecting description hit add to cart
+
 ![starting7](/Images/Guide_images/starting7.png)
 
 # Additional hardware
