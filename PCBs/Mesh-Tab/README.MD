@@ -18,11 +18,11 @@ there are 2 board variants, one has 2 pcbs and one has 1 pcb
 
 No variant exists for this board yet
 
-![Front](/Images/Mesh-Tab_Front.png)
-![back](/Images/Mesh-Tab_Back.png)
+![Front](/Images/Mesh-Tab/Mesh-Tab_Front.png)
+![back](/Images/Mesh-Tab/Mesh-Tab_Back.png)
 
-![PCB Front](/Images/PCB_Mesh-Tab_ESP32-S3-WROOM-1-N16R2_bottom.png)
-![PCB back](/Images/PCB_Mesh-Tab_ESP32-S3-WROOM-1-N16R2_top.png)
+![PCB Front](/Images/Mesh-Tab/PCB_Mesh-Tab_ESP32-S3-WROOM-1-N16R2_bottom.png)
+![PCB back](/Images/Mesh-Tab/PCB_Mesh-Tab_ESP32-S3-WROOM-1-N16R2_top.png)
 
-![Schematic 1](/Images/Sheet_1.png)
-![Schematic 2](/Images/Sheet_2.png)
+![Schematic 1](/Images/Mesh-Tab/Sheet_1.png)
+![Schematic 2](/Images/Mesh-Tab/Sheet_2.png)
