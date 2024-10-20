@@ -16,9 +16,9 @@ there are 2 board variants, one has 2 pcbs and one has 1 pcb
 
 [Schematic](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Schematic_Mesh-Tab_ESP32-S3-WROOM-1-N16R2.pdf)
 
-[Ordering Guid](Ordering.md)
+[Ordering Guide](Ordering.md)
 
-No variant exists for this board yet
+No firmware variant exists for this board as of now.
 
 ![Front](/Images/Mesh-Tab/Mesh-Tab_Front.png)
 ![back](/Images/Mesh-Tab/Mesh-Tab_Back.png)
