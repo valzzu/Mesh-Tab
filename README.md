@@ -7,7 +7,7 @@
 ## Target Stages
 
 - **Stage 1:** An ESP32-based touchscreen node designed for the new "Fancy UI" by mverch🇩🇪, with an emphasis on keeping costs low.
-- **Stage 2:** A hybrid node that combines ESP32 and nRF chips on the same board. The ESP32 will serve as the GPU for graphics processing while the screen is active, and the nRF chip will handle LoRa communication for efficient performance. Once the screen times out, the ESP32 will enter sleep mode, with the nRF chip maintaining Meshtastic functionality.
+- **Stage 2:** A hybrid node that combines ESP32 and nRF chips on the same board. The ESP32 will serve as the GPU for the UI while the screen is active, along with touchscreen control. The nRF chip will handle LoRa communication for efficient performance. Once the screen times out, the ESP32 will enter sleep mode, with the nRF chip maintaining Meshtastic functionality.
 - **Stage 3:** A fully nRF-based node with an eInk screen, aiming to incorporate a custom-made UI (not yet developed).
 
 ## Stage 1: Target Hardware
