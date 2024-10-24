@@ -2,6 +2,9 @@
 
 **Mesh-Tab** is a community-driven board design focused on creating experimental touchscreen nodes similar to smartphones. The project is divided into multiple stages, each with specific design goals.
 
+![Front](/Images/Mesh-Tab/Mesh-Tab_Front-smol.png)
+![back](/Images/Mesh-Tab/Mesh-Tab_Back-smol.png)
+
 ## Target Stages
 
 - **Stage 1:** An ESP32-based touchscreen node designed for the new "Fancy UI" by mverch🇩🇪, with an emphasis on keeping costs low.
