@@ -28,3 +28,4 @@ No firmware variant exists for this board as of now.
 
 ![Schematic 1](/Images/Mesh-Tab/Sheet_1.png)
 ![Schematic 2](/Images/Mesh-Tab/Sheet_2.png)
+![Schematic 2](/Images/Mesh-Tab/Sheet_3.png)
