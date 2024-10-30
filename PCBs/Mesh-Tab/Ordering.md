@@ -54,7 +54,7 @@ battery:
 
 [5000mAh](https://vi.aliexpress.com/item/1005005216499731.html)
 
-[8000mAh](https://www.aliexpress.us/item/2251832758431717.html)
+[8000mAh](https://a.aliexpress.com/_EJIpkHP)
 
 [connector for battery](https://vi.aliexpress.com/item/1005006623049916.html)
 
