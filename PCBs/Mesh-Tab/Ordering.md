@@ -43,6 +43,7 @@ screens:
    [3.5 inch](https://vi.aliexpress.com/item/32985467436.html) - select the one with touch
 
  - capasitive
+
     [3.2 inch](https://vi.aliexpress.com/item/1005006952065332.html)
 
     [4 inch](https://vi.aliexpress.com/item/1005007082906950.html)
