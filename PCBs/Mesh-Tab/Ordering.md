@@ -33,11 +33,21 @@ For shipping select 'Global Standard Direct Line' for shipping
 
 [esp32 s3 wroom 1 N16R2](https://vi.aliexpress.com/item/1005005230800143.html) - select S3-WROOM-1-N16R2
 
-[LEDs](https://vi.aliexpress.com/item/1005006205983912.html) - select red and green, both have 100 leds. or if u don't want 100 each choose the 5 colors x20 led kit
+[LEDs](https://a.aliexpress.com/_EHxXAUv) - u need red, green and blue.
 
-[3.2 inch display](https://vi.aliexpress.com/item/1005006258575617.html) - chooce the version with touch screen
+screens:
+ - resistive
 
-[buzzer](https://vi.aliexpress.com/item/1005006260328559.html)
+   [3.2 inch](https://vi.aliexpress.com/item/1005006258575617.html) - chooce the version with touch screen
+
+   [3.5 inch](https://vi.aliexpress.com/item/32985467436.html)
+
+ - capasitive
+    [3.2 inch](https://vi.aliexpress.com/item/1005006952065332.html)
+    [4 inch](https://vi.aliexpress.com/item/1005007082906950.html)
+
+
+[buzzer](https://a.aliexpress.com/_EughDX3) -  select 9032 3.6v passive
 
 battery:
 
