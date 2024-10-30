@@ -4,18 +4,17 @@ firstly head over to [jlcpcb](https://jlcpcb.com) and hit order now.
 
 then either chooce the non panelized or the panelized version of the gerber file depending on ur needs.
 when u know whitch one u need drag it or click add gerber file.
-if u chose the panelized version, click panel by customer and set it to 2x1
 
 ![starting1](/Images/Guide_images/starting1.png)
 
 ![starting2](/Images/Guide_images/starting2.png)
 
-if 'Single piece, pls help me repeat the data' is not highlighted select that, files only have data for one pcb. Only relevant if u chose panelized version
 ![starting3](/Images/Guide_images/starting3.png)
 
 ![starting4](/Images/Guide_images/starting4.png)
 
-if u want to jlc to assemble the esp32 then do not untick the checkbox but do note it will cost more.
+untick esp32 and ra-01sh unless u want them assembled and pay more for esp32 assembly.
+jlc has the wrong ra-01sh module so u need to  manually solder it. the one they have doesn't have ipex connector.
 
 ![starting5](/Images/Guide_images/starting5.png)
 
