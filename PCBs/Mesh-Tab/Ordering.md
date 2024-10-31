@@ -56,6 +56,8 @@ battery:
 
 [8000mAh](https://a.aliexpress.com/_EJIpkHP)
 
+[PH 2](https://vi.aliexpress.com/item/33011797617.html) - select 2p
+
 [connector for battery](https://vi.aliexpress.com/item/1005006623049916.html)
 
 [ipex to sma](https://vi.aliexpress.com/item/4000848776660.html) - select IPEX to SMA-K and 5cm for length
