@@ -4,18 +4,17 @@ firstly head over to [jlcpcb](https://jlcpcb.com) and hit order now.
 
 then either chooce the non panelized or the panelized version of the gerber file depending on ur needs.
 when u know whitch one u need drag it or click add gerber file.
-if u chose the panelized version, click panel by customer and set it to 2x1
 
 ![starting1](/Images/Guide_images/starting1.png)
 
 ![starting2](/Images/Guide_images/starting2.png)
 
-if 'Single piece, pls help me repeat the data' is not highlighted select that, files only have data for one pcb. Only relevant if u chose panelized version
 ![starting3](/Images/Guide_images/starting3.png)
 
 ![starting4](/Images/Guide_images/starting4.png)
 
-if u want to jlc to assemble the esp32 then do not untick the checkbox but do note it will cost more.
+untick esp32 and ra-01sh unless u want them assembled and pay more for esp32 assembly.
+jlc has the wrong ra-01sh module so u need to  manually solder it. the one they have doesn't have ipex connector.
 
 ![starting5](/Images/Guide_images/starting5.png)
 
@@ -33,17 +32,31 @@ For shipping select 'Global Standard Direct Line' for shipping
 
 [esp32 s3 wroom 1 N16R2](https://vi.aliexpress.com/item/1005005230800143.html) - select S3-WROOM-1-N16R2
 
-[LEDs](https://vi.aliexpress.com/item/1005006205983912.html) - select red and green, both have 100 leds. or if u don't want 100 each choose the 5 colors x20 led kit
+[LEDs](https://a.aliexpress.com/_EHxXAUv) - u need red, green and blue.
 
-[3.2 inch display](https://vi.aliexpress.com/item/1005006258575617.html) - chooce the version with touch screen
+screens:
+ - resistive
 
-[buzzer](https://vi.aliexpress.com/item/1005006260328559.html)
+   [3.2 inch](https://vi.aliexpress.com/item/1005006258575617.html) - select the one with touch
+
+   [3.5 inch](https://vi.aliexpress.com/item/32985467436.html) - select the one with touch
+
+ - capasitive
+
+    [3.2 inch](https://vi.aliexpress.com/item/1005006952065332.html)
+
+    [4 inch](https://vi.aliexpress.com/item/1005007082906950.html)
+
+
+[buzzer](https://a.aliexpress.com/_EughDX3) -  select 9032 3.6v passive
 
 battery:
 
-[5000mAh](https://vi.aliexpress.com/item/1005005216499731.html)
+ - [5000mAh](https://vi.aliexpress.com/item/1005005216499731.html)
 
-[8000mAh](https://www.aliexpress.us/item/2251832758431717.html)
+ - [8000mAh](https://a.aliexpress.com/_EJIpkHP)
+
+[PH 2 connector](https://vi.aliexpress.com/item/33011797617.html) - select 2p. this is where the battery connects
 
 [connector for battery](https://vi.aliexpress.com/item/1005006623049916.html)
 
