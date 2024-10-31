@@ -56,7 +56,7 @@ battery:
 
 [8000mAh](https://a.aliexpress.com/_EJIpkHP)
 
-[PH 2](https://vi.aliexpress.com/item/33011797617.html) - select 2p
+[PH 2 connector](https://vi.aliexpress.com/item/33011797617.html) - select 2p. this is where the battery connects
 
 [connector for battery](https://vi.aliexpress.com/item/1005006623049916.html)
 
