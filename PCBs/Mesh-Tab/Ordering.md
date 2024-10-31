@@ -52,9 +52,9 @@ screens:
 
 battery:
 
-[5000mAh](https://vi.aliexpress.com/item/1005005216499731.html)
+ - [5000mAh](https://vi.aliexpress.com/item/1005005216499731.html)
 
-[8000mAh](https://a.aliexpress.com/_EJIpkHP)
+ - [8000mAh](https://a.aliexpress.com/_EJIpkHP)
 
 [PH 2 connector](https://vi.aliexpress.com/item/33011797617.html) - select 2p. this is where the battery connects
 
