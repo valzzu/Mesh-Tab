@@ -2,7 +2,7 @@
 
 ### This board has not been tested yet!!!!!
 
-there are 2 board variants, one has 2 pcbs and one has 1 pcb
+there are 2 board variants, one is for jlcpcb and the second one is for pcbway
 
 
 [JLCPCB](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-JLCPCB.zip)
