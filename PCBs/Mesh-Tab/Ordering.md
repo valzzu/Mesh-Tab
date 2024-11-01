@@ -32,7 +32,7 @@ For shipping select 'Global Standard Direct Line' for shipping
 
 ESP32 S3
  - [aliexpress](https://vi.aliexpress.com/item/1005005230800143.html) - select S3-WROOM-1-N16R2
- - 
+
   or
 
  - [mouser](https://www.mouser.fi/ProductDetail/356-ESP32S3WRM1N16R2)
