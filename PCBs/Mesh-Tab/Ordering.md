@@ -2,8 +2,8 @@
 
 firstly head over to [jlcpcb](https://jlcpcb.com) and hit order now.
 
-then either chooce the non panelized or the panelized version of the gerber file depending on ur needs.
-when u know whitch one u need drag it or click add gerber file.
+THERE IS NO PANELIZED PCB ANYMORE!
+for JLCPCB choose the gerber ending with JLCPCB
 
 ![starting1](/Images/Guide_images/starting1.png)
 
