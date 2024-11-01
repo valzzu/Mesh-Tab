@@ -32,7 +32,9 @@ For shipping select 'Global Standard Direct Line' for shipping
 
 ESP32 S3
  - [aliexpress](https://vi.aliexpress.com/item/1005005230800143.html) - select S3-WROOM-1-N16R2
-  or 
+ - 
+  or
+
  - [mouser](https://www.mouser.fi/ProductDetail/356-ESP32S3WRM1N16R2)
 
 [LEDs](https://a.aliexpress.com/_EHxXAUv) - u need red, green and blue.
