@@ -4,11 +4,10 @@
 
 there are 2 board variants, one has 2 pcbs and one has 1 pcb
 
-[Download all files](<https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Mesh-Tab/Mesh-Tab_ESP32-S3-WROOM-1-N16R2 (all in one).zip>)
 
-[not panelized](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Mesh-Tab_ESP32-S3-WROOM-1-N16R2.zip)
+[JLCPCB](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-JLCPCB.zip)
 
-[panelized 2x1](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Mesh-Tab_ESP32-S3-WROOM-1-N16R2_panelized_2x1.zip)
+[PCBWAY](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-PCBWAY.zip)
 
 [BOM](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/BOM_Mesh-Tab_ESP32-S3-WROOM-1-N16R2.csv)
 
