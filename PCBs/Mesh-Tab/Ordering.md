@@ -30,7 +30,10 @@ For shipping select 'Global Standard Direct Line' for shipping
 
 [Ra-01sh](https://vi.aliexpress.com/item/1005002561194884.html) - select the version with the ipex connector
 
-[esp32 s3 wroom 1 N16R2](https://vi.aliexpress.com/item/1005005230800143.html) - select S3-WROOM-1-N16R2
+ESP32 S3
+ - [aliexpress](https://vi.aliexpress.com/item/1005005230800143.html) - select S3-WROOM-1-N16R2
+  or 
+ - [mouser](https://www.mouser.fi/ProductDetail/356-ESP32S3WRM1N16R2)
 
 [LEDs](https://a.aliexpress.com/_EHxXAUv) - u need red, green and blue.
 
