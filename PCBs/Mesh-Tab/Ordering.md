@@ -42,15 +42,17 @@ ESP32 S3
 screens:
  - resistive
 
-   [3.2 inch](https://vi.aliexpress.com/item/1005006258575617.html) - select the one with touch
+   [3.2 inch IPS](https://vi.aliexpress.com/item/1005006258575617.html) - select the one with touch
 
-   [3.5 inch](https://vi.aliexpress.com/item/32985467436.html) - select the one with touch
+   [3.5 inch TN](https://vi.aliexpress.com/item/32985467436.html) - select the one with touch
 
+   [3.5 inch IPS](https://vi.aliexpress.com/item/1005006333922639.html)
+   
  - capasitive
 
-    [3.2 inch](https://vi.aliexpress.com/item/1005006952065332.html)
+    [3.2 inch IPS](https://vi.aliexpress.com/item/1005006952065332.html)
 
-    [4 inch](https://vi.aliexpress.com/item/1005007082906950.html)
+    [4 inch IPS](https://vi.aliexpress.com/item/1005007082906950.html)
 
 
 [buzzer](https://a.aliexpress.com/_EughDX3) -  select 9032 3.6v passive
