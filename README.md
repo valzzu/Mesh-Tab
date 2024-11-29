@@ -1,7 +1,7 @@
 # Mesh-Tab
 
 # Disclaimer: this is not yet ready :) 
-
+everything else seems to work expect powering from battery 
 
 
 **Mesh-Tab** is a community-driven board design focused on creating experimental touchscreen nodes similar to smartphones. The project is divided into multiple stages, each with specific design goals.
