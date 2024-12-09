@@ -44,7 +44,7 @@ screens:
 
    [3.2 inch IPS](https://vi.aliexpress.com/item/1005006258575617.html) - select the one with touch
 
-   [3.5 inch TN](https://vi.aliexpress.com/item/32985467436.html) - select the one with touch
+   ([3.5 inch TN](https://vi.aliexpress.com/item/32985467436.html) - select the one with touch)
 
    [3.5 inch IPS](https://vi.aliexpress.com/item/1005006333922639.html)
    
