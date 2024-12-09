@@ -74,6 +74,8 @@ screens:
 
     [3.2 inch IPS](https://vi.aliexpress.com/item/1005006952065332.html)
 
+    [3.5 inch IPS](https://vi.aliexpress.com/item/1005006893699919.html)
+
     [4 inch IPS](https://vi.aliexpress.com/item/1005007082906950.html)
 
 
