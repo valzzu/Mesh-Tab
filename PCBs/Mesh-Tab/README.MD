@@ -17,7 +17,15 @@ there are 2 board variants, one is for jlcpcb and the second one is for pcbway
 
 [Ordering Guide](Ordering.md)
 
-No firmware variant exists for this board as of now.
+### Firmware
+
+there is no official release of the firmware yet. You have to build it yourself.
+
+take a look here for the [platformio.ini](https://github.com/meshtastic/firmware/blob/tft-gui-work/variants/mesh-tab/platformio.ini)
+
+i will not be providing instructions on how to build the Meshtastic UI since its not official supported yet.
+Generic build [instructions](https://meshtastic.org/docs/development/firmware/build/)
+
 
 ![Front](/Images/Mesh-Tab/Mesh-Tab_Front.png)
 ![back](/Images/Mesh-Tab/Mesh-Tab_Back.png)
