@@ -3,6 +3,8 @@
 # Disclaimer: this is not yet ready :) 
 everything else seems to work expect powering from battery 
 
+# Starting on 6.1.25 I'll be in the military so i won't be updating or fixing etc, i will be slow to reply if at all so be patient :)
+
 
 **Mesh-Tab** is a community-driven board design focused on creating experimental touchscreen nodes similar to smartphones. The project is divided into multiple stages, each with specific design goals.
 
