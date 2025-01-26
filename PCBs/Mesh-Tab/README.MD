@@ -5,15 +5,15 @@
 there are 2 board variants, one is for jlcpcb and the second one is for pcbway
 
 
-[JLCPCB](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-JLCPCB.zip)
+[JLCPCB](PCBs/Mesh-Tab/PCBs/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-JLCPCB.zip)
 
-[PCBWAY](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-PCBWAY.zip)
+[PCBWAY](/PCBs/Mesh-Tab/PCBs/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-PCBWAY.zip)
 
-[BOM](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/BOM_Mesh-Tab_ESP32-S3-WROOM-1-N16R2.csv)
+[BOM](/PCBs/Mesh-Tab/BOM_Mesh-Tab_ESP32-S3-WROOM-1-N16R2.csv)
 
-[Pick & Place](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/PickAndPlace_Mesh-Tab_ESP32-S3-WROOM-1-N16R2.csv)
+[Pick & Place](/PCBs/Mesh-Tab/PickAndPlace_Mesh-Tab_ESP32-S3-WROOM-1-N16R2.csv)
 
-[Schematic](https://github.com/valzzu/Mesh-Tab/raw/refs/heads/main/PCBs/Schematic_Mesh-Tab_ESP32-S3-WROOM-1-N16R2.pdf)
+[Schematic](/PCBs/Mesh-Tab/Schematic_Mesh-Tab_ESP32-S3-WROOM-1-N16R2.pdf)
 
 [Ordering Guide](Ordering.md)
 
