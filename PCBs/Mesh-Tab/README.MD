@@ -33,6 +33,6 @@ Generic build [instructions](https://meshtastic.org/docs/development/firmware/bu
 ![PCB Front](/Images/Mesh-Tab/PCB_Mesh-Tab_ESP32-S3-WROOM-1-N16R2_bottom.png)
 ![PCB back](/Images/Mesh-Tab/PCB_Mesh-Tab_ESP32-S3-WROOM-1-N16R2_top.png)
 
-![Schematic 1](/Images/Mesh-Tab/Sheet_1.png)
-![Schematic 2](/Images/Mesh-Tab/Sheet_2.png)
-![Schematic 2](/Images/Mesh-Tab/Sheet_3.png)
+![Schematic 1](/Images/Mesh-Tab/1_logic.png)
+![Schematic 2](/Images/Mesh-Tab/2_power.png)
+![Schematic 2](/Images/Mesh-Tab/3_displays.png)
