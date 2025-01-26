@@ -5,7 +5,7 @@
 there are 2 board variants, one is for jlcpcb and the second one is for pcbway
 
 
-[JLCPCB](PCBs/Mesh-Tab/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-JLCPCB.zip)
+[JLCPCB](/PCBs/Mesh-Tab/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-JLCPCB.zip)
 
 [PCBWAY](/PCBs/Mesh-Tab/Mesh-Tab_ESP32-S3-WROOM-1-N16R2-PCBWAY.zip)
 
