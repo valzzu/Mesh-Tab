@@ -1,13 +1,23 @@
+
+
+
 # Mesh-Tab
 
 # Disclaimer: this is not yet ready :) 
-everything else seems to work expect powering from battery 
-
 
 
 **Mesh-Tab** is a community-driven board design focused on creating experimental touchscreen nodes similar to smartphones. The project is divided into multiple stages, each with specific design goals.
 
 ![Mesht-Tab](/Images/Mesh-Tab/Mesh-Tab.png)
+
+## Sponsorship
+
+<a href="https://www.pcbway.com/">
+  <img src="https://www.pcbway.com/project/img/images/frompcbway.png" width="200" alt="PCBWay Logo">
+</a>
+
+This project is proudly sponsored by [PCBWay](https://www.pcbway.com/).  
+Thanks to their support for providing high-quality PCB manufacturing and assembly services.
 
 ## Target Stages
 
