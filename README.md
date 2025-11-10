@@ -13,7 +13,7 @@
 ## Sponsorship
 
 <a href="https://www.pcbway.com/">
-  <img src="https://www.pcbway.com/project/img/images/frompcbway.png" width="200" alt="PCBWay Logo">
+  <img src="https://github.com/user-attachments/assets/2b7d3c97-b843-4ae2-84ca-bb3d8946750f" width="200" alt="PCBWay Logo">
 </a>
 
 This project is proudly sponsored by [PCBWay](https://www.pcbway.com/).  
