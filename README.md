@@ -29,7 +29,7 @@ Thanks to their support for providing high-quality PCB manufacturing and assembl
 
 The following components are being considered for Stage 1 until better alternatives are found:
 
-- **Custom PCB:** Currently in progress, aiming to be purchased semi-built from JLCPCB or fully built from PCBWay.
+- **Custom PCB:** Work in progress. can be ordered form various pcb manufacturers like, for example from our sponsor [PCBWay](https://www.pcbway.com/)
 - [**Ra-01sh**](https://vi.aliexpress.com/item/1005002561194884.html) - LoRa chip that can be manually soldered.
 - [**ESP32-S3-WROOM-1-N16R2**](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N16R2/16162644) - ESP32 chip that can also be manually soldered.
 - [**3.2" TFT LCD ILI9341**](https://www.aliexpress.us/item/3256806072260865.html) - Custom PCB being designed to fit this screen.
