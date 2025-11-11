@@ -8,8 +8,8 @@
 
 **Mesh-Tab** is a community-driven board design focused on creating experimental touchscreen nodes similar to smartphones. The project is divided into multiple stages, each with specific design goals.
 
-![Mesht-Tab front](/Images/20251109_195601.jpg)
-![Mesht-Tab back](/Images/IMG-20251109-WA0008.jpg)
+![Mesht-Tab front](/Images/Mesh_Tab/20251109_195601.jpg)
+![Mesht-Tab back](/Images/Mesh_Tab/IMG-20251109-WA0008.jpg)
 
 ## Sponsorship
 
